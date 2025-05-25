@@ -1,0 +1,8 @@
+{
+  "id": "filmix_pro",
+  "name": "Filmix Pro",
+  "description": "Плагин для подключения Filmix Pro",
+  "type": "plugin",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/your_github_username/lampa-filmix-plugin@main/plugin.js"
+}
